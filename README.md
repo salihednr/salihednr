@@ -3,7 +3,7 @@ Exploring New Technologies
 <br><br>
 - 👨🏽‍💻  Web3, NFT's, DeFi <br>
 - 💣  Artificial Intelligence, Machine Learning, Data Science <br>
-- 🔫  React Js, NodeJS, Express, MongoDB <br>
+- 🔫  React JS, NodeJS, Express, MongoDB <br>
 - 💡  JavaScript, Java, C++,Python
 
 
