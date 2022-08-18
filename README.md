@@ -1,4 +1,4 @@
-<center><h1> Hi 👋 I am <a href="https://www.salihedneer.com">Salih Edneer.</a> </h1></center>
+<center><h1> Hi 👋 I am <a href="http://www.salihedneer.com">Salih Edneer.</a> </h1></center>
 Exploring New Technologies
 <br><br>
 - 👨🏽‍💻  Web3, NFT's, DeFi <br>
