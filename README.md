@@ -8,7 +8,7 @@ M.Sc (Five Years Integrated) in Artificial Intelligence and Data Science (CUSAT)
 - 💡JavaScript, Java, C++,Python
 
 
-<img https://github-readme-stats.vercel.app/api?username=salihednr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
+<img src="https://github-readme-stats.vercel.app/api?username=salihednr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <detail>Will Update More<br>
