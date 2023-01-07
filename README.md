@@ -3,9 +3,7 @@ Exploring New Technologies, Improving Myself Everyday <br>
 M.Sc (Five Years Integrated) in Artificial Intelligence and Data Science (CUSAT)
 <br><br>
 - 👨🏽‍💻  Web3, NFT's, DeFi <br>
-- 💣  Artificial Intelligence, Machine Learning, Data Science <br>
-- 🔫  React JS, NodeJS, Express, MongoDB <br>
-- 💡JavaScript, Java, C++,Python
+- 💡 JavaScript, Java, C++,
 
 <img src="https://github-readme-stats.vercel.app/api?username=salihednr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
