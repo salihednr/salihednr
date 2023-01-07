@@ -1,7 +1,7 @@
 <center><h1> Hi 👋 I am <a href="http://www.salihedneer.com">Salih Edneer.</a> </h1></center>
 Exploring New Technologies, Improving Myself Everyday <br>
 <br><br>
-- 📚 I’m doing my B.Tech CSE from Model engineering college,Thrikakkara
+- 📚 I’m doing my B.Tech CSE from Model engineering college,Thrikakkara <br>
 - 👨🏽‍💻 Web3, NFT's, DeFi <br>
 - 💡 JavaScript, Java, C++
 
